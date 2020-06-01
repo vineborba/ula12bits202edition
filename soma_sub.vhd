@@ -4,7 +4,7 @@ entity soma_sub is
 generic(N : integer := 4);
 port( A, B : in std_logic_vector(N-1 downto 0);
 S : out std_logic_vector(N-1 downto 0);
-mode : in std_logic; --- modo
+mode : in std_logic;
 Cout : out std_logic;
 OV : out std_logic
 );
@@ -13,7 +13,7 @@ architecture a1 of soma_sub is
 signal c : std_logic_vector(N downto 0);
 signal bb : std_logic_vector(N-1 downto 0);
 begin
-c(0) <= mode; -- se o cin for 0 é soma, senão é subtração
+c(0) <= mode;
 Cout <= c(N);
 OV <= c(N) xor c(N-1);
 add: for i in 0 to N-1 generate

@@ -1,3 +1,4 @@
+if {[file isdirectory work]} { vdel -all -lib work }
 vlib work
 vmap work work
 
