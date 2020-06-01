@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/vinicius.borba/Downloads/teste
+Ealu_fsd
+Z1 w1590980745
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8ula.vhd
+Z7 Fula.vhd
+l0
+L5
+VE>HGMhF>T:0K<g9HH^4MZ1
+!s100 oXWd79nhQ2i30i?3UnRD@3
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1590983650
+!i10b 1
+Z10 !s108 1590983650.000000
+Z11 !s90 -reportprogress|300|-work|work|ula.vhd|
+Z12 !s107 ula.vhd|
+!i113 1
+Z13 o-work work -O0
+Z14 tExplicit 1
+Avinicius_de_borba
+Z15 DEx4 work 8 soma_sub 0 22 YlI1FPlRPh^0N<V4XL^[N0
+R2
+R3
+R4
+R5
+Z16 DEx4 work 7 alu_fsd 0 22 E>HGMhF>T:0K<g9HH^4MZ1
+l16
+L13
+VP[9JnMd;NSZnMX65HgP_;3
+!s100 5U279zIbME>NhW_7]<1Tl1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Esoma_sub
+Z17 w1571407976
+R4
+R5
+R0
+Z18 8soma_sub.vhd
+Z19 Fsoma_sub.vhd
+l0
+L3
+VYlI1FPlRPh^0N<V4XL^[N0
+!s100 md9dAEBhVjEg59Ok9ec>[0
+R8
+32
+R9
+!i10b 1
+R10
+Z20 !s90 -reportprogress|300|-work|work|soma_sub.vhd|
+Z21 !s107 soma_sub.vhd|
+!i113 1
+R13
+R14
+Aa1
+R4
+R5
+R15
+l15
+L12
+V=1kiYkFiVE3@E;`=8GL@X0
+!s100 TUZkHjW:zeT7<<ciT0:>R2
+R8
+32
+R9
+!i10b 1
+R10
+R20
+R21
+!i113 1
+R13
+R14
+Etb
+Z22 w1590980678
+R4
+R5
+R0
+Z23 8tb_ula.vhd
+Z24 Ftb_ula.vhd
+l0
+L4
+VzVGM1hg_jiZz1YREilPKH2
+!s100 Xg36cRPRR1ndaWUNl8M[d2
+R8
+32
+R9
+!i10b 1
+R10
+Z25 !s90 -reportprogress|300|-work|work|tb_ula.vhd|
+Z26 !s107 tb_ula.vhd|
+!i113 1
+R13
+R14
+Aa1
+R2
+R3
+R16
+R4
+R5
+Z27 DEx4 work 2 tb 0 22 zVGM1hg_jiZz1YREilPKH2
+l13
+L7
+Z28 V;SgeTGYid]L4TU?:X>9dK0
+Z29 !s100 QVVThfIodOinn_cIE4c9P3
+R8
+32
+R9
+!i10b 1
+R10
+R25
+R26
+!i113 1
+R13
+R14
